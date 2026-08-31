@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cinema>
+  <performances>
+    <performance name="Hamlet" date="2026-09-15" hall="1"/>
+    <performance name="Matrix" date="2026-09-16" hall="2"/>
+  </performances>
+  <tickets>
+  </tickets>
+</cinema>
