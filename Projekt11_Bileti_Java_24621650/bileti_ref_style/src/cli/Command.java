@@ -9,6 +9,10 @@ public class Command {
         this.args = args;
     }
 
-    public String getName() { return name; }
-    public String[] getArgs() { return args; }
+    public String getName() { 
+        return name; 
+    }
+    public String[] getArgs() { 
+        return args; 
+    }
 }
